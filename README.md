@@ -1,1 +1,1 @@
-# open.pahntombot.cf
+Open.Phantombot.cf
