@@ -1,1 +1,1 @@
-Open.Phantombot.cf
+# open.phantombot.cf
